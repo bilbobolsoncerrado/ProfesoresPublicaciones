@@ -9,7 +9,7 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-			int opcion = 0;
+			int opcion = 0; //jj
 			String message="Aún no hay profesores introducidos";
 			ArrayList<Profesor> listaProfesores = new ArrayList<>();
 			rellenarListaDeProfesores(listaProfesores);
