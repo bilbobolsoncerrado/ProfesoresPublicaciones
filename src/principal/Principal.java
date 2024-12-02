@@ -53,7 +53,7 @@ public class Principal {
 		System.out.println("6) Salir");
 		System.out.println("Introduce la opción elegida (1-6)");
 		System.out.println("--------------------------");
-		//int opcion = Util.leerInt(1, 6);
+		//int opcion = Util.leerInt(1, 6); jj
 		int opcion=4;
 		return opcion;
 	}
